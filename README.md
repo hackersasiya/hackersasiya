@@ -23,4 +23,4 @@
 ### Deploy
 1. ***Deploy on heroku [Tutorial](https://www.youtube.com/watch?v=ZX_uCZXNHbk).***
 
-   ```Thanks Fro using Zero-Two-MD```
+   ```Thanks Fro using Dark-Feenix-MD```
